@@ -1,0 +1,30 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="compilerUser.jar">
+    <output-path>$PROJECT_DIR$/.idea/out/artifacts</output-path>
+    <root id="archive" name="compilerUser.jar">
+      <element id="module-output" name="elementHandlers" />
+      <element id="module-output" name="text" />
+      <element id="module-output" name="exceptions" />
+      <element id="module-output" name="warnings" />
+      <element id="module-output" name="javaSourceFiles" />
+      <element id="module-output" name="moduleCompiler" />
+      <element id="module-output" name="moduleName" />
+      <element id="module-output" name="pathExpressions" />
+      <element id="module-output" name="processors" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/codeTreeUsers" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/elementHandlers" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/exceptions" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/javaSourceFiles" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/moduleCompiler" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/moduleName" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/pathExpressions" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/processors" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/text" />
+      <element id="dir-copy" path="$PROJECT_DIR$/source/warnings" />
+      <element id="module-output" name="codeTreeUsers" />
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/jar/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>

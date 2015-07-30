@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/source/codeTreeUsers/codeTreeUsers.iml" filepath="$PROJECT_DIR$/source/codeTreeUsers/codeTreeUsers.iml" />
       <module fileurl="file://$PROJECT_DIR$/source/elementHandlers/elementHandlers.iml" filepath="$PROJECT_DIR$/source/elementHandlers/elementHandlers.iml" />
       <module fileurl="file://$PROJECT_DIR$/source/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/source/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/jar/jar.iml" filepath="$PROJECT_DIR$/source/jar/jar.iml" />
       <module fileurl="file://$PROJECT_DIR$/source/javaSourceFiles/javaSourceFiles.iml" filepath="$PROJECT_DIR$/source/javaSourceFiles/javaSourceFiles.iml" />
       <module fileurl="file://$PROJECT_DIR$/source/moduleCompiler/moduleCompiler.iml" filepath="$PROJECT_DIR$/source/moduleCompiler/moduleCompiler.iml" />
       <module fileurl="file://$PROJECT_DIR$/source/moduleName/moduleName.iml" filepath="$PROJECT_DIR$/source/moduleName/moduleName.iml" />
