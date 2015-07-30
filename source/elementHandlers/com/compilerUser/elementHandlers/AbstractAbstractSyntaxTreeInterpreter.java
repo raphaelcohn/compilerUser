@@ -41,6 +41,7 @@ public abstract class AbstractAbstractSyntaxTreeInterpreter implements AbstractS
 		this.trees = trees;
 	}
 
+	@Override
 	@NotNull
 	public final String getCanonicalClassName(@NotNull final TypeElement element)
 	{
@@ -90,7 +91,8 @@ public abstract class AbstractAbstractSyntaxTreeInterpreter implements AbstractS
 		// return typeUtilities.isSameType(classInterfaceEnumOrAnnotation, typeFor(clazz));
 	}
 
-	private boolean hasAnnotationDirectlyOrInherited(@NotNull final Element element, @NotNull final Class<? extends Annotation> annotationClass)
+	@Override
+	public final boolean hasAnnotationDirectlyOrInherited(@NotNull final Element element, @NotNull final Class<? extends Annotation> annotationClass)
 	{
 		final List<? extends AnnotationMirror> allAnnotationMirrors = elementUtilities.getAllAnnotationMirrors(element);
 		for (final AnnotationMirror annotationMirror : allAnnotationMirrors)

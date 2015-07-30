@@ -14,6 +14,7 @@ import javax.lang.model.element.TypeElement;
 import javax.lang.model.type.DeclaredType;
 import javax.lang.model.type.TypeMirror;
 import javax.lang.model.type.WildcardType;
+import java.lang.annotation.Annotation;
 
 public interface AbstractSyntaxTreeInterpreter
 {
@@ -34,4 +35,6 @@ public interface AbstractSyntaxTreeInterpreter
 	// null for PackageElement
 	@Nullable
 	TreePath treePathForElement(@NotNull Element element);
+
+	boolean hasAnnotationDirectlyOrInherited(@NotNull final Element element, @NotNull final Class<? extends Annotation> annotationClass);
 }
