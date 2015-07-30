@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/source/codeTreeUsers/codeTreeUsers.iml" filepath="$PROJECT_DIR$/source/codeTreeUsers/codeTreeUsers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/elementHandlers/elementHandlers.iml" filepath="$PROJECT_DIR$/source/elementHandlers/elementHandlers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/exceptions/exceptions.iml" filepath="$PROJECT_DIR$/source/exceptions/exceptions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/javaSourceFiles/javaSourceFiles.iml" filepath="$PROJECT_DIR$/source/javaSourceFiles/javaSourceFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/moduleCompiler/moduleCompiler.iml" filepath="$PROJECT_DIR$/source/moduleCompiler/moduleCompiler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/moduleName/moduleName.iml" filepath="$PROJECT_DIR$/source/moduleName/moduleName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/pathExpressions/pathExpressions.iml" filepath="$PROJECT_DIR$/source/pathExpressions/pathExpressions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/processors/processors.iml" filepath="$PROJECT_DIR$/source/processors/processors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/text/text.iml" filepath="$PROJECT_DIR$/source/text/text.iml" />
+      <module fileurl="file://$PROJECT_DIR$/source/warnings/warnings.iml" filepath="$PROJECT_DIR$/source/warnings/warnings.iml" />
+    </modules>
+  </component>
+</project>
