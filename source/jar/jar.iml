@@ -7,5 +7,15 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="codeTreeUsers" exported="" />
+    <orderEntry type="module" module-name="elementHandlers" exported="" />
+    <orderEntry type="module" module-name="exceptions" exported="" />
+    <orderEntry type="module" module-name="javaSourceFiles" exported="" />
+    <orderEntry type="module" module-name="moduleCompiler" exported="" />
+    <orderEntry type="module" module-name="moduleName" exported="" />
+    <orderEntry type="module" module-name="pathExpressions" exported="" />
+    <orderEntry type="module" module-name="processors" exported="" />
+    <orderEntry type="module" module-name="text" exported="" />
+    <orderEntry type="module" module-name="warnings" exported="" />
   </component>
 </module>
